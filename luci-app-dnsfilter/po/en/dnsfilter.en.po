@@ -1,0 +1,104 @@
+msgid "Base Setting"
+msgstr "Base Setting"
+
+msgid "Support AdGuardHome/Host/DNSMASQ/Domain Rules"
+msgstr "Support AdGuardHome/Host/DNSMASQ/Domain Rules"
+
+msgid "RUNNING"
+msgstr "RUNNING"
+
+msgid "NOT RUNNING"
+msgstr "NOT RUNNING"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Block Apple iOS OTA update"
+msgstr "Block Apple iOS OTA update"
+
+msgid "Block CNshort APP and Website"
+msgstr "Block CNshort APP and Website"
+
+msgid "Enable automatic update rules"
+msgstr "Enable automatic update rules"
+
+msgid "Update time"
+msgstr "Update time"
+
+msgid "DNSFilter Data"
+msgstr "DNSFilter Data"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Refresh..."
+msgstr "Refresh..."
+
+msgid "No new data!"
+msgstr "No new data!"
+
+msgid "Refresh Error!"
+msgstr "Refresh Error!"
+
+msgid "Refresh OK!"
+msgstr "Refresh OK!"
+
+msgid "Total Records:"
+msgstr "Total Records:"
+
+msgid "Refresh Data"
+msgstr "Refresh Data"
+
+msgid "Last Update Checked"
+msgstr "Last Update Checked"
+
+msgid "Subscribe Rules Data"
+msgstr "Subscribe Rules Data"
+
+msgid "AdGuardHome / Host / DNSMASQ / Domain rules auto-convert"
+msgstr "AdGuardHome / Host / DNSMASQ /Domain rules auto-convert"
+
+msgid "Save rules to flash"
+msgstr "Save rules to flash"
+
+msgid "Should be enabled when rules addresses are slow to download"
+msgstr "Should be enabled when rules addresses are slow to download"
+
+msgid "Delete All Subscribe Rules"
+msgstr "Delete All Subscribe Rules"
+
+msgid "Delete rules files and delete the subscription link<br/>There is no need to click for modify the subscription link,The script will automatically replace the old rule file"
+msgstr "Delete rules files and delete the subscription link<br/>There is no need to click for modify the subscription link,The script will automatically replace the old rule file"
+
+msgid "Delete Subscribe Rules On The Flash"
+msgstr "Delete Subscribe Rules On The Flash"
+
+msgid "Anti-AD Rules Subscribe"
+msgstr "Anti-AD Rules Subscribe"
+
+msgid "White Domain List"
+msgstr "White Domain List"
+
+msgid "Will Never filter these Domain"
+msgstr "Will Never filter these Domain"
+
+msgid "Block Domain List"
+msgstr "Block Domain List"
+
+msgid "Will Always block these Domain"
+msgstr "Will Always block these Domain"
+
+msgid "Block IP List"
+msgstr "Block IP List"
+
+msgid "Will Always block these IP"
+msgstr "Will Always block these IP"
+
+msgid "Safe Search"
+msgstr "Safe Search"
+
+msgid "Enforcing SafeSearch for google, bing, duckduckgo, yandex and youtube."
+msgstr "Enforcing SafeSearch for google, bing, duckduckgo, yandex and youtube."
+
+msgid "Update Log"
+msgstr "Update Log"
